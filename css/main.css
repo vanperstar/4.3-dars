@@ -1,0 +1,22 @@
+body{
+    background:rgba(23, 22, 22, 0.822);
+}
+
+.movie_title{
+    height: 100%;
+    border-radius: 10px;
+    color: white;
+}
+
+select{
+    padding: 10px;
+    position: absolute;
+    text-align: center;
+    background: rgba(16, 110, 101, 0.2);
+    left: 30%;
+    right: 30%;
+}
+
+.row_el{
+    margin-top: 50px !important;
+}
